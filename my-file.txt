@@ -1,2 +1,2 @@
-Hello, Williams!
+Hello, JavaScript!
 I'm learning Git.
